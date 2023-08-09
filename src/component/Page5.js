@@ -11,7 +11,7 @@ const Page5 = () => {
                             <span className="ml-3 text-xl text-white">I.T.M Group Of Institution,
                                 Maharajganj</span>
                         </a>
-                        <p className="mt-2 text-sm text-gray-500">Air plant banjo lyft occupy retro adaptogen indego</p>
+                        
 
                         <div class="mb-3">
                             <div className="relative mb-4 flex w-full flex-wrap items-stretch pt-3">
