@@ -23,17 +23,17 @@ function App() {
 
   return (
     <div className="App">
-       <Page8 />
-      <ImageSlider images={images} /> 
+       {/* <Page8 />
+       <ImageSlider images={images} /> 
       <Page1 />
        <Page2 />
       <Page3 />
-      <Page4 />
+       <Page4 />
       <Page7 />
-      <Page6 />
+      <Page6 /> */}
       <Page5 /> 
 
-      <Leader />
+      {/* <Leader />  */}
  
 
 
